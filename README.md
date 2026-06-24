@@ -68,7 +68,7 @@ We'd love your feedback—try WorkSyne and share your thoughts below!
 
 ### Screenshot
 
-![Prompt 1 Output](screenshots/prompt1_output.png)
+![Prompt 1 Output](prompt1_output.png)
 
 ### Iteration
 
@@ -118,7 +118,7 @@ In this article, we explore what AI is, how it works, and the exciting opportuni
 
 ### Screenshot
 
-![Prompt 2 Output](screenshots/prompt2_output.png)
+![Prompt 2 Output](prompt2_output.png)
 
 ## Prompt 3: Cold Outreach Email
 
@@ -183,7 +183,7 @@ Shivani Pattnayak
 
 ### Screenshot
 
-![Prompt 3 Output](screenshots/prompt3_output.png)
+![Prompt 3 Output](prompt3_output.png)
 
 ### Iteration
 
@@ -235,7 +235,7 @@ Shivani
 
 ### Screenshot
 
-![Prompt 4 Output](screenshots/prompt4_output.png)
+![Prompt 4 Output](prompt4_output.png)
 ## Prompt 5: Product Description Generator
 
 ### Use Case
@@ -292,7 +292,7 @@ Take charge of your fitness journey with SmartFit Watch today.
 
 ### Screenshot
 
-![Prompt 5 Output](screenshots/prompt5_output.png)
+![Prompt 5 Output](prompt5_output.png)
 ## Prompt 6: YouTube Title & Description Generator
 
 ### Use Case
@@ -337,7 +337,7 @@ Learn Python from scratch with simple examples and practical demonstrations.
 
 ### Screenshot
 
-![Prompt 6 Output](screenshots/prompt6_output.png)
+![Prompt 6 Output](prompt6_output.png)
 ## Prompt 7: Newsletter Section Generator
 
 ### Use Case
@@ -382,7 +382,7 @@ ACM Tech Carnival 2026 witnessed enthusiastic participation from over 300 studen
 
 ### Screenshot
 
-![Prompt 7 Output](screenshots/prompt7_output.png)
+![Prompt 7 Output](prompt7_output.png)
 ## Prompt 8: Article Summarization Prompt
 
 ### Use Case
@@ -433,7 +433,7 @@ Artificial Intelligence is helping organizations improve efficiency, automate pr
 
 ### Screenshot
 
-![Prompt 8 Output](screenshots/prompt8_output.png)
+![Prompt 8 Output](prompt8_output.png)
 ## Prompt 9: FAQ Generator
 
 ### Use Case
@@ -481,7 +481,7 @@ A3: Yes, it records issue and return transactions automatically.
 
 ### Screenshot
 
-![Prompt 9 Output](screenshots/prompt9_output.png)
+![Prompt 9 Output](prompt9_output.png)
 ## Prompt 10: 7-Day Content Calendar Generator
 
 ### Use Case
@@ -538,7 +538,7 @@ Increase engagement
 
 ### Screenshot
 
-![Prompt 10 Output](screenshots/prompt10_output.png)
+![Prompt 10 Output](prompt10_output.png)
 
 ### Iteration
 
